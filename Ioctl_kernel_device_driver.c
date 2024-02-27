@@ -1,4 +1,9 @@
 //ioctl device driver. 
+//source embetronics
+//https://www.google.com/amp/s/embetronicx.com/tutorials/linux/device-drivers/ioctl-tutorial-in-linux/amp/
+
+
+
 
 /***************************************************************************//**
 *  \file       driver.c
