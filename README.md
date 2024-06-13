@@ -121,6 +121,8 @@ $c
 1.7 quite the execution 
 $q
 
+###Some references for code
+//https://elixir.bootlin.com/linux/latest/source/include/linux/spi/spi.h
 
 
 
