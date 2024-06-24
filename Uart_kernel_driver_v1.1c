@@ -4,4 +4,10 @@ I recommend you to git check out on the below git url
 //https://github.com/lakabd/Software-UART-linux-driver
 
 
+
+//char driver basic reference:-
+//https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html
+
+
+
 */
