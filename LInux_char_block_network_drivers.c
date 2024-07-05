@@ -1,4 +1,8 @@
 
+//char driver step by step.
+//https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os#:~:text=There%20are%20two%20ways%20of%20a%20Linux%20device,case%20you%20won%E2%80%99t%20need%20to%20recompile%20the%20kernel.
+
+
 Char, block, network drivers with interrupts,ioctl, spinlocks.
 //char,block,network drivers
 https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html
